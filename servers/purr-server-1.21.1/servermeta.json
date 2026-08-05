@@ -2,8 +2,8 @@
   "$schema": "file:///C:/Users/joons/Documents/SSH/Nebula/distro/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "purr-server (Minecraft 1.21.1)",
-    "description": "purr-server Running Minecraft 1.21.1 (Fabric v0.16.0)",
+    "name": "PURR Server (1.21.1)",
+    "description": "PURR 마인크래프트 1.21.1 패브릭 서버",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
     "address": "localhost:25565",
     "discord": {
@@ -11,7 +11,7 @@
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
     },
-    "mainServer": false,
+    "mainServer": true,
     "autoconnect": false
   },
   "fabric": {
