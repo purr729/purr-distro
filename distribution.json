@@ -114,6 +114,126 @@
               }
             }
           ]
+        },
+        {
+          "id": "com.aetherteam:aether:1.5.11@jar",
+          "name": "The Aether",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 40931095,
+            "url": "https://purr729.github.io/purr-distro/servers/purr-server-1.21.1/fabricmods/required/aether-1.21.1-1.5.11-fabric.jar",
+            "MD5": "292a0b635d3f0d7e83730583dbede5e5"
+          }
+        },
+        {
+          "id": "dev.tr7zw:entityculling:1.10.5@jar",
+          "name": "EntityCulling",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1595131,
+            "url": "https://purr729.github.io/purr-distro/servers/purr-server-1.21.1/fabricmods/required/entityculling-fabric-1.10.5-mc1.21.1.jar",
+            "MD5": "833cb8fd661a52acf63856d22e45f832"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-api:0.116.15+1.21.1@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2452718,
+            "url": "https://purr729.github.io/purr-distro/servers/purr-server-1.21.1/fabricmods/required/fabric-api-0.116.15+1.21.1.jar",
+            "MD5": "e24c27a4ece4ee82ca7a55f2f5b544f4"
+          }
+        },
+        {
+          "id": "generated.fabricmod:iris:1.8.14-beta.1+mc1.21.1@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2791343,
+            "url": "https://purr729.github.io/purr-distro/servers/purr-server-1.21.1/fabricmods/required/iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
+            "MD5": "4399f0c3edfe2af7f61db3725fe5c751"
+          }
+        },
+        {
+          "id": "mezz.jei:jei:19.27.0.336@jar",
+          "name": "Just Enough Items",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1561528,
+            "url": "https://purr729.github.io/purr-distro/servers/purr-server-1.21.1/fabricmods/required/jei-1.21.1-fabric-19.27.0.336.jar",
+            "MD5": "b4988fdc0d53bc418d6285e4b3d4bf16"
+          }
+        },
+        {
+          "id": "com.terraformersmc:modmenu:11.0.4@jar",
+          "name": "Mod Menu",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 973059,
+            "url": "https://purr729.github.io/purr-distro/servers/purr-server-1.21.1/fabricmods/required/modmenu-11.0.4.jar",
+            "MD5": "b2b9c53a887c100f780708c4f36db6c4"
+          }
+        },
+        {
+          "id": "io.wispforest:owo:0.12.15.4+1.21@jar",
+          "name": "Oωo",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1183559,
+            "url": "https://purr729.github.io/purr-distro/servers/purr-server-1.21.1/fabricmods/required/owo-lib-0.12.15.4+1.21.jar",
+            "MD5": "3627aee17111e12a8c66928f5d7a3fba"
+          }
+        },
+        {
+          "id": "generated.fabricmod:placeholder-api:2.4.2+1.21@jar",
+          "name": "Placeholder API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 232325,
+            "url": "https://purr729.github.io/purr-distro/servers/purr-server-1.21.1/fabricmods/required/placeholder-api-2.4.2+1.21.jar",
+            "MD5": "4de8568a088a276c94168514d625413d"
+          }
+        },
+        {
+          "id": "net.caffeinemc.mods:sodium:0.8.13-beta.1+mc1.21.1@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1573754,
+            "url": "https://purr729.github.io/purr-distro/servers/purr-server-1.21.1/fabricmods/required/sodium-fabric-0.8.13-beta.1+mc1.21.1.jar",
+            "MD5": "1d3953c309f30a661eaeed485509fb1a"
+          }
+        },
+        {
+          "id": "me.zipestudio.talkingheads.entrypoint:talkingheads:1.1.3+1.21.1+fabric@jar",
+          "name": "Talking Heads",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 286178,
+            "url": "https://purr729.github.io/purr-distro/servers/purr-server-1.21.1/fabricmods/required/talking-heads-1.1.3+1.21.1+fabric.jar",
+            "MD5": "a18d6861e4848f38e729da59049f6b56"
+          }
+        },
+        {
+          "id": "de.maxhenkel:voicechat:1.21.1-2.6.21@jar",
+          "name": "Simple Voice Chat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 5364892,
+            "url": "https://purr729.github.io/purr-distro/servers/purr-server-1.21.1/fabricmods/required/voicechat-fabric-1.21.1-2.6.21.jar",
+            "MD5": "444756f9ee133192f11926b334002904"
+          }
+        },
+        {
+          "id": "dev.isxander.yacl3.platform:yet_another_config_lib_v3:3.8.2+1.21.1-fabric@jar",
+          "name": "YetAnotherConfigLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1131265,
+            "url": "https://purr729.github.io/purr-distro/servers/purr-server-1.21.1/fabricmods/required/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
+            "MD5": "aadf11f5a793296be7c195e1ca388492"
+          }
         }
       ]
     }
