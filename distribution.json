@@ -30,7 +30,7 @@
           "artifact": {
             "size": 1368445,
             "MD5": "9e96a8f9424744e3e9b43f942975da34",
-            "url": "https://purr729.github.io/repo/lib/net/fabricmc/fabric-loader/0.16.0/fabric-loader-0.16.0.jar"
+            "url": "https://purr729.github.io/purr-distro/repo/lib/net/fabricmc/fabric-loader/0.16.0/fabric-loader-0.16.0.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 2847,
                 "MD5": "523e59f7932d98c61fe81c215b1918b1",
-                "url": "https://purr729.github.io/repo/versions/1.21.1-fabric-0.16.0/1.21.1-fabric-0.16.0.json"
+                "url": "https://purr729.github.io/purr-distro/repo/versions/1.21.1-fabric-0.16.0/1.21.1-fabric-0.16.0.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 123598,
                 "MD5": "6f8bccf756f170d4185bb24c8c2d2020",
-                "url": "https://purr729.github.io/repo/lib/org/ow2/asm/asm/9.6/asm-9.6.jar"
+                "url": "https://purr729.github.io/purr-distro/repo/lib/org/ow2/asm/asm/9.6/asm-9.6.jar"
               }
             },
             {
@@ -60,7 +60,7 @@
               "artifact": {
                 "size": 34041,
                 "MD5": "31c84ef7cc893fb278952ae2d6a2674f",
-                "url": "https://purr729.github.io/repo/lib/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar"
+                "url": "https://purr729.github.io/purr-distro/repo/lib/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar"
               }
             },
             {
@@ -70,7 +70,7 @@
               "artifact": {
                 "size": 72194,
                 "MD5": "9e317c75534bd1da8c00a67c618ab288",
-                "url": "https://purr729.github.io/repo/lib/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar"
+                "url": "https://purr729.github.io/purr-distro/repo/lib/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar"
               }
             },
             {
@@ -80,7 +80,7 @@
               "artifact": {
                 "size": 51935,
                 "MD5": "6062608f1a98afe1e853d01fa1221a9e",
-                "url": "https://purr729.github.io/repo/lib/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar"
+                "url": "https://purr729.github.io/purr-distro/repo/lib/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar"
               }
             },
             {
@@ -90,7 +90,7 @@
               "artifact": {
                 "size": 91131,
                 "MD5": "bd3bc1c176a787373e9a031073c9574b",
-                "url": "https://purr729.github.io/repo/lib/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar"
+                "url": "https://purr729.github.io/purr-distro/repo/lib/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar"
               }
             },
             {
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 1494859,
                 "MD5": "65ff9052ede9283e70770e0cd4eccdf4",
-                "url": "https://purr729.github.io/repo/lib/net/fabricmc/sponge-mixin/0.15.0+mixin.0.8.7/sponge-mixin-0.15.0+mixin.0.8.7.jar"
+                "url": "https://purr729.github.io/purr-distro/repo/lib/net/fabricmc/sponge-mixin/0.15.0+mixin.0.8.7/sponge-mixin-0.15.0+mixin.0.8.7.jar"
               }
             },
             {
@@ -110,7 +110,7 @@
               "artifact": {
                 "size": 657725,
                 "MD5": "850be48a3406b9efdf8e64b1c2db97f8",
-                "url": "https://purr729.github.io/repo/lib/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar"
+                "url": "https://purr729.github.io/purr-distro/repo/lib/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar"
               }
             }
           ]
