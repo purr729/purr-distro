@@ -15,7 +15,7 @@
     "autoconnect": false
   },
   "fabric": {
-    "version": "0.16.0"
+    "version": "0.17.2"
   },
   "untrackedFiles": []
 }
